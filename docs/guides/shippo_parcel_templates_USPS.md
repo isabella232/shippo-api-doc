@@ -19,7 +19,3 @@
 | USPS_RegionalRateBoxB1         | [Priority Mail Regional Rate Box® - B1](https://store.usps.com/store/product/shipping-supplies/priority-mail-regional-rate-box-b1-P_RRB_B1)                                  | 70 lbs |    |   |
 | USPS_RegionalRateBoxB2         | [Priority Mail Regional Rate Box® - B2](https://store.usps.com/store/product/shipping-supplies/priority-mail-regional-rate-box-b2-P_RRB_B2)                                  | 70 lbs |    |   |
 | USPS_SoftPack                  | Packaging not provided by USPS, sellers will find their own suppliers. | -      | Primary Service Level for shirts or clothing. |   |
-
-
-
-
